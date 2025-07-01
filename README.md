@@ -1,52 +1,78 @@
-## Hi 👋 I'm Bindisha Parmar
+## 👋 Hi, I'm Bindisha Parmar
 
-💬 Ask me about GIS, Java, AWS Cloud, Docker, Kubernetes , Javascript
+🎓 Master's Student @ Technological University of the Shannon  
+🚀 Currently part of the **Student Incubator Accelerator Programme**  
+💻 Passionate about solving real-world problems using **GIS, Cloud, and Full Stack Technologies**
 
-📫 How to reach me parmar.bindisha01@gmail.com / +353894972907
+---
+### 💬 Ask Me About
+`GIS` • `Java` • `AWS Cloud` • `Spring Boot` • `Docker` • `Kubernetes` • `JavaScript` • `OpenLayers`
 
-📄** Know about my experiences**
+---
 
-📄**Project Associate and Software Developer– Cognizant - Mumbai, India, October 2021– June 2024**
+### 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, HTML, CSS, SQL
+- **Frontend:** Angular, jQuery, OpenLayers
+- **Backend:** Spring Boot, Node.js, REST APIs
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Jenkins, GitHub Actions
+- **Tools & Platforms:** GeoServer, Firebase, Swagger, ELK Stack, QGIS
+- **Databases:** PostgreSQL, Oracle
 
-**Network Rail**
+---
 
-● Developed APIs for geospatial and enterprise systems, increasing integration efficiency. 
+### 💼 Experience
 
-● Created interactive map layers using OpenLayers and GeoServer, boosting user engagement by 30%. 
+#### 📄 **Project Associate & Software Developer – Cognizant**  
+📍 Mumbai, India | 🗓️ October 2021 – June 2024  
 
-● Optimized API Gateway access, reducing latency by 25%. 
+**Network Rail (UK Client)**  
+- Developed APIs for geospatial and enterprise systems to boost integration efficiency  
+- Designed interactive map layers using **OpenLayers** and **GeoServer**, increasing engagement by 30%  
+- Reduced API Gateway latency by 25% through optimization  
+- Automated data loads (initial and delta), cutting manual work by 40%  
+- Led testing and debugging phases for robust, production-ready releases  
+- Enhanced **CI/CD pipelines** in line with agile DevOps practices  
 
-● Delivered data load automation (initial and delta), reducing manual tasks by 40%. 
+**CGG – GIS Developer (Team Member)**  
+- Designed and implemented APIs for geospatial and non-geospatial applications  
+- Created highly interactive maps using **OpenLayers** on the Angular platform  
+- Delivered complex GIS functionality via the OpenLayers JavaScript API  
 
-● Led testing and debugging for UK clients like Network Rail, ensuring robust releases. 
+---
 
-● Enhanced CI/CD workflows supporting agile DevOps practices. 
+#### 📄 **Software Developer – BCITS Pvt. Ltd**  
+📍 Bangalore, India | 🗓️ January 2019 – October 2021  
 
-● Translated complex business logic into scalable, production-ready code. 
+**Kerala Electricity Board (KSEB) – Full Stack Developer**  
+- Built dynamic UI screens using **HTML, CSS, JavaScript, jQuery**  
+- Developed REST APIs with Spring Boot and Swagger integration  
+- Managed complete APK release lifecycle for Android-based modules  
+- Integrated **Firebase notifications**, dashboards, and BI tools  
+- Developed features like Identification Tool, Version Management, and advanced reporting
 
-**CGG -GIS Developer (Team Member)**
-•	Pioneering and executing the creation and implementation of APIs for maps and non-maps
-•	Designing visually captivating and functionally optimal map layers using Geo Server
-•	Developing dynamic and interactive maps for web applications, leveraging open-layer technology on the Angular platform
-•	Innovatively employing Open layers JavaScript API to devise advanced and intricate map features
+**HES – Internal Framework for Global Meter Reading**  
+- Implemented REST APIs and service layers with Spring Boot  
+- Utilized **Bsmart Logger** and visualized data using **ELK Stack**  
+- Designed I18n configuration, multiple DB profiles, and customizable UI components
 
-**📄 Software Developer– BCITS Pvt. Ltd - Bangalore, India, January 2019– October 2021**
+---
 
- **Kerala Electricity Board (KSEB) Project - Full Stack Developer**
- •	Crafted and developed the majority of the UI screens utilizing HTML, CSS, JavaScript, and jQuery to create engaging and interactive displays of data.
- •	Assessed overall application requirements and communicated them with efficiency and clarity to other team members
- •	Conceptualized and implemented REST APIs with corresponding Controller, Service, Repository, Data tables, and UI in JSP
- •	Configured REST APIs with the latest tools and technologies, including Swagger, Firebase notification, and BI tool
- •	Managed Apk release, lifecycle, and deployment to ensure the seamless rollout of project features
- •	Designed and developed critical functionalities such as Identification Tool, Version Management, Consumer-wise reports, and Organization level reports, including the    creation of Views, Functions, and Complex queries for multiple dashboards and reports
- 
- **HES - Internal Framework for Global Solution of Meter Reading - Full Stack Developer** 
- •	Collaborated as a Team Member on various Government Billing projects for a span of two years.
- •	Conceptualized and implemented REST APIs with corresponding Controller, Service, Repository, Data tables, and UI in JSP
- •	Configured REST APIs with the latest tools and technologies, including Swagger, Firebase notification, and BI tool
- •	Leveraged a Generic Bsmart Logger to store and archive Logger information, which could be retrieved and visualized in an ELK (Elastic Search, Logstash, Kibana) set-up, with added features such as I18n configuration, Profile-based Configuration, Multiple database configuration, and UI layout configuration
+### 🌱 Currently Exploring
+- Disaster communication resilience (decentralized messaging, offline SOS) - https://www.linkedin.com/in/bindisha-parmar-a8144858/details/projects/
+- Serverless architecture and AI integration
+- Cloud-native microservices with Kubernetes
 
- 
+---
+
+### 📫 How to Reach Me
+- 📧 Email: [parmar.bindisha01@gmail.com](mailto:parmar.bindisha01@gmail.com)  
+- 📱 Phone: +353 89 497 2907  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bindishaparmar)  
+- 🗂️ [GitHub Portfolio](https://github.com/Bindisha)
+
+---
+
+
 
 
 
