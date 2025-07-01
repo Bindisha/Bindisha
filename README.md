@@ -9,6 +9,7 @@
 📄**Project Associate and Software Developer– Cognizant - Mumbai, India, October 2021– June 2024**
 
 **Network Rail**
+
 ● Developed APIs for geospatial and enterprise systems, increasing integration efficiency. 
 ● Created interactive map layers using OpenLayers and GeoServer, boosting user engagement by 30%. 
 ● Optimized API Gateway access, reducing latency by 25%. 
