@@ -11,11 +11,17 @@
 **Network Rail**
 
 ● Developed APIs for geospatial and enterprise systems, increasing integration efficiency. 
+
 ● Created interactive map layers using OpenLayers and GeoServer, boosting user engagement by 30%. 
+
 ● Optimized API Gateway access, reducing latency by 25%. 
+
 ● Delivered data load automation (initial and delta), reducing manual tasks by 40%. 
+
 ● Led testing and debugging for UK clients like Network Rail, ensuring robust releases. 
+
 ● Enhanced CI/CD workflows supporting agile DevOps practices. 
+
 ● Translated complex business logic into scalable, production-ready code. 
 
 **CGG -GIS Developer (Team Member)**
