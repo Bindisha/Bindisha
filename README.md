@@ -67,7 +67,7 @@
 ### 📫 How to Reach Me
 - 📧 Email: [parmar.bindisha01@gmail.com](mailto:parmar.bindisha01@gmail.com)  
 - 📱 Phone: +353 89 497 2907  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bindishaparmar)  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/bindisha-parmar-a8144858)
 - 🗂️ [GitHub Portfolio](https://github.com/Bindisha)
 
 ---
