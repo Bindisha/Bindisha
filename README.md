@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Bindisha Parmar
 
 🎓 Master's Student @ Technological University of the Shannon  
-💻 Senior Software Engineer at **Zinkworks**
+💻 Senior Software Engineer at **Zinkworks**  
 🚀 Part of the **Student Incubator Accelerator Programme**  
 💻 Passionate about solving real-world problems using **GIS, Cloud, and Full Stack Technologies**
 
